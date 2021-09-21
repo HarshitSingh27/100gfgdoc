@@ -1,1 +1,1 @@
-# 100gfgdoc
+# https://practice.geeksforgeeks.org/problems/
